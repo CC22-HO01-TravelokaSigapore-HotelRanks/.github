@@ -1,5 +1,5 @@
-<center><img src="https://user-images.githubusercontent.com/61568092/171662861-3f35cb1a-1153-4ca8-8993-ff3b39c99373.png" width="500px"></center>
-<center><h1> CC22-HO01-TravelokaSingapore-HotelRanks </center></h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/61568092/171662861-3f35cb1a-1153-4ca8-8993-ff3b39c99373.png" width="500px"></p>
+<h1 align="center"> CC22-HO01-TravelokaSingapore-HotelRanks </h1>
 
 Hello World! We're a team consist of 10 peoples from around Indonesia in a programs called Bangkit, founded and arranged by Google, Traveloka, Goto and Dicoding. This is our summary of our projects for past one month. We're in collaboration with Traveloka creating a prototype with a theme of optimizing hotel ranking based on business cases creates a prototype of hotel recommendation application.
 
@@ -40,4 +40,4 @@ Our teams formed 3 different division with each division has a different tasks. 
 ### Mobile Development
 1. Coming Soon.
 
-<p style='text-align: right;'> Keep Bangkit Spirits Up! <br> C22-HO01 Teams. </p>
+<p align="right"> Keep Bangkit Spirits Up! <br> C22-HO01 Teams. </p>
