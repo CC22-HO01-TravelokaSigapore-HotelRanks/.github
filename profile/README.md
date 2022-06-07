@@ -1,7 +1,10 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/61568092/171662861-3f35cb1a-1153-4ca8-8993-ff3b39c99373.png" width="500px"></p>
 <h1 align="center"> CC22-HO01-TravelokaSingapore-HotelRanks </h1>
 
-Hello World! We're a team consist of 10 peoples from around Indonesia in a programs called Bangkit, founded and arranged by Google, Traveloka, Goto and Dicoding. This is our summary of our projects for past one month. We're in collaboration with Traveloka creating a prototype with a theme of optimizing hotel ranking based on business cases creates a prototype of hotel recommendation application.
+Hello World! We're a team consist of 10 peoples from around Indonesia in a programs called Bangkit, founded and arranged by Google, Traveloka, Goto and Dicoding. We're in collaboration with Traveloka creating a prototype with a theme of optimizing hotel ranking based on business cases creates a prototype of hotel recommendation application.
+
+<details>
+   <summary align="center">More Information</summary>
 
 ## Our Teams
 Our teams formed 3 different division with each division has a different tasks. From Cloud Computing which provides an API for the data and connecting Machine Learning Division with the Mobile Development Division. Machine Learning Division which will provide an algorithm to optimize what and how the hotel ranking displayed. Mobile Development Division which makes an application interface for display the hotel ranking prototypes. 
@@ -45,5 +48,7 @@ Our teams formed 3 different division with each division has a different tasks. 
 
 ### Mobile Development
 1. [hotel-ranking-app](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/hotel-ranking-app). Hotel Ranking App based on Android Platform with Kotlin.
+  
+</details>
 
 <p align="right"> Keep Bangkit Spirits Up! <br> C22-HO01 Teams. </p>
