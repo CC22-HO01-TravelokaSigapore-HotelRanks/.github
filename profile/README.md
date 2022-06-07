@@ -32,12 +32,18 @@ Our teams formed 3 different division with each division has a different tasks. 
 ## Repository
 
 ### Cloud Computing
-1. Coming Soon.
+1. [API-Recommendation](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/API-Recommendation).
 
 ### Machine Learning
-1. Coming Soon.
+1. [Sentiment-Prediction-Modelling](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Sentiment-Prediction-Modelling). Notebooks of our research and modelling for Sentiment Prediction on Hotel Reviews.
+2. [NER-Location-Modelling](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/NER-Location-Modelling). Notebooks of our research and modelling for Named Entity Recognition (Location Only).
+3. [For-You-Pipeline-Modelling](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/For-You-Pipeline-Modelling). Notebooks of our research and modelling of "For You" Page.
+4. [Hotel-Ranking-Calculation-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Hotel-Ranking-Calculation-Endpoint). A stateless endpoint of our system to calculate and filter hotel rankings.
+5. [Sentiment-Prediction-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Sentiment-Prediction-Endpoint). An endpoint for our system of predicting hotel reviews sentiment.
+6. [Location-Recognition-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Location-Recognition-Endpoint). An endpoint for our system to improve search engine.
+7. [DL-Hotel-Rating-Estimation-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/DL-Hotel-Rating-Estimation-Endpoint). A stateless endpoint of our system to estimate users hotel rating using deep learning approach.
 
 ### Mobile Development
-1. Coming Soon.
+1. [hotel-ranking-app](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/hotel-ranking-app). Hotel Ranking App based on Android Platform with Kotlin.
 
 <p align="right"> Keep Bangkit Spirits Up! <br> C22-HO01 Teams. </p>
