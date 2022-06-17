@@ -45,6 +45,7 @@ Our teams formed 3 different division with each division has a different tasks. 
 5. [Sentiment-Prediction-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Sentiment-Prediction-Endpoint). An endpoint for our system of predicting hotel reviews sentiment.
 6. [Location-Recognition-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Location-Recognition-Endpoint). An endpoint for our system to improve search engine.
 7. [DL-Hotel-Rating-Estimation-Endpoint](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/DL-Hotel-Rating-Estimation-Endpoint). A stateless endpoint of our system to estimate users hotel rating using deep learning approach.
+8. [Hotel-Recommendation-Research](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/Hotel-Recommendation-Research). A research of our recommendation systems.
 
 ### Mobile Development
 1. [hotel-ranking-app](https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/hotel-ranking-app). Hotel Ranking App based on Android Platform with Kotlin.
