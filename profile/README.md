@@ -14,7 +14,7 @@ A hotel recommendation application built with 5 different types of algorithm to 
 <p align="center">
    Download Now!
    <br>
-   <a href="https://bit.ly/C22-HO01-Application"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+   <a href="https://github.com/CC22-HO01-TravelokaSigapore-HotelRanks/hotel-ranking-app/releases/download/v1.0.0/Hotel.Bli.apk"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 </p>
 
 ## Our Teams
